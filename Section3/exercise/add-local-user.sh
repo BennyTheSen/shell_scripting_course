@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this script creates a new user and prints ouuuuuuuuuuuuuttttttttttt the information 
+# this script creates a new user and prints out the information 
 
 # check if run as root else exit 1
 if [[ "${UID}" -ne "0" ]]
